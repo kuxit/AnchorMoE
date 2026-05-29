@@ -35,6 +35,14 @@ pip install -r requirements.txt
 
 The code was tested with Python 3.10+ and PyTorch.
 
+## License
+
+This project is released under the MIT License. See `LICENSE` for details.
+
+## Citation
+
+If you use this repository, please cite the corresponding paper. A `CITATION.cff` file is provided for GitHub citation metadata.
+
 ## Example
 
 ```bash
